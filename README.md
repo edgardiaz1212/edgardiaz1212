@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edgardiaz1212" alt="edgardiaz1212" /></a> </p>
 
-- 🔭 I’m currently working on [movementColocationPage](https://github.com/edgardiaz1212/movementColocationPage)
+- 🔭 I’m currently working on [workLog](https://github.com/edgardiaz1212/workLogPro)
 
 - 🌱 I’m currently learning **ChatGPT Prompt Engineering for Developers**
 
